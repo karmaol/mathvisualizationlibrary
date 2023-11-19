@@ -17,7 +17,7 @@ The Math Visualization Library is a Python library designed to facilitate the vi
 
 **Fractals**: Explore and visualize fractal patterns, including the Mandelbrot set, Julia sets, and the Sierpinski triangle.
 
-**Dependencies**
+                                                     **Dependencies**
 The Math Visualization Library is built using the standard Python library, which is typically included with the Python installation. 
 Python (version 3.7 or higher) - The programming language used for the library.
 Matplotlib (version 3.4.0 or higher) - A plotting library for creating static, animated, and interactive visualizations in Python.
