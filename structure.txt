@@ -1,0 +1,21 @@
+math_visualization_library/
+├── graphs/
+│   ├── line_plot.py
+│   ├── scatter_plot.py
+│   ├── bar_plot.py
+│   └── histogram.py
+├── shapes/
+│   ├── points.py
+│   ├── lines.py
+│   ├── circles.py
+│   ├── polygons.py
+│   └── three_d_objects.py
+├── fractals/
+│   ├── mandelbrot.py
+│   ├── julia_sets.py
+│   └── sierpinski_triangle.py
+├── examples/
+│   ├── graph_examples.py
+│   ├── shape_examples.py
+│   └── fractal_examples.py
+└── README.md
