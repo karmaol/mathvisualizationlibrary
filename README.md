@@ -4,11 +4,17 @@ Math Visualization Library
 The Math Visualization Library is a Python library designed to facilitate the visualization of various mathematical concepts and data. It has functions and utilities for visual appeal in the field of mathematics.
 
 **Features**
+
 **Line Plots**: Generate line plots to visualize mathematical functions, curves, or data series._**
+
 **Scatter plots**: Create scatter plots to visualize the distribution and relationships between data points.
+
 **Bar Graphs**: Generate bar graphs to represent categorical or numerical data_.**
+
 **Histograms**: Create histograms to display the distribution of numerical data._
+
 **Geometric shapes**: Generate various geometric shapes such as points, lines, circles, polygons, and 3D objects.
+
 **Fractals**: Explore and visualize fractal patterns, including the Mandelbrot set, Julia sets, and the Sierpinski triangle.
 
 **Dependencies**
