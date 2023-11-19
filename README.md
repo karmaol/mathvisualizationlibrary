@@ -1,18 +1,18 @@
-# mathvisualizationlibrary
+# Math Visualization Library
 Python library designed to visualize mathematical concepts
 Math Visualization Library
 The Math Visualization Library is a Python library designed to facilitate the visualization of various mathematical concepts and data. It has functions and utilities for visual appeal in the field of mathematics.
 
 **Features**
-_Line plots_: Generate line plots to visualize mathematical functions, curves, or data series.
-_Scatter plots_: Create scatter plots to visualize the distribution and relationships between data points.
-_Bar graphs_: Generate bar graphs to represent categorical or numerical data_.
-Histograms_: Create histograms to display the distribution of numerical data._
-Geometric shapes_: Generate various geometric shapes such as points, lines, circles, polygons, and 3D objects.
-_Fractals_: Explore and visualize fractal patterns, including the Mandelbrot set, Julia sets, and the Sierpinski triangle.
-**Dependencies**
-The Math Visualization Library is built using the standard Python library, which is typically included with the Python installation. It doesn't have any additional external dependencies beyond the following:
+**Line Plots**: Generate line plots to visualize mathematical functions, curves, or data series._**
+**Scatter plots**: Create scatter plots to visualize the distribution and relationships between data points.
+**Bar Graphs**: Generate bar graphs to represent categorical or numerical data_.**
+**Histograms**: Create histograms to display the distribution of numerical data._
+**Geometric shapes**: Generate various geometric shapes such as points, lines, circles, polygons, and 3D objects.
+**Fractals**: Explore and visualize fractal patterns, including the Mandelbrot set, Julia sets, and the Sierpinski triangle.
 
+**Dependencies**
+The Math Visualization Library is built using the standard Python library, which is typically included with the Python installation. 
 Python (version 3.7 or higher) - The programming language used for the library.
 Matplotlib (version 3.4.0 or higher) - A plotting library for creating static, animated, and interactive visualizations in Python.
 NumPy (version 1.20.0 or higher) - A library for numerical computations in Python, often used for handling arrays and mathematical operations.
