@@ -7,7 +7,7 @@ from circles import example_circles
 from polygons import example_polygons
 from three_d_objects import example_3d_objects
 
-# Example usage
+# Eg
 example_points()
 example_lines()
 example_circles()
