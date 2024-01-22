@@ -6,7 +6,7 @@ from scatter_plot import example_scatter_plot
 from bar_plot import example_bar_graph
 from histogram import example_histogram
 
-# Example usage
+# E.g
 example_line_plot()
 example_scatter_plot()
 example_bar_graph()
